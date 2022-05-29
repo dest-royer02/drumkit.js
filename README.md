@@ -1,1 +1,1 @@
-# drumkit.js
+# drumkit
